@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="footer-content">
           <div className="footer-section">
             <div className="footer-logo">
-            <img src="../../public/images/logo/smartlibrary-logo-white.png" alt="SmartLibrary.Asia Logo" className="logo-img" />
+            <img src="../../images/logo/smartlibrary-logo-white.png" alt="SmartLibrary.Asia Logo" className="logo-img" />
             </div>
             <p className="footer-description">
               {t('footer.partner')}

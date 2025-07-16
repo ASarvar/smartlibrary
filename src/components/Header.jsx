@@ -36,7 +36,7 @@ const Header = () => {
         <div className="header-content">
           <Link to="/" className="logo">
           {/* Single PNG logo */}
-            <img src="../../public/images/logo/smartlibrary-logo.png" alt="SmartLibrary.Asia Logo" className="logo-img" />
+            <img src="../../images/logo/smartlibrary-logo.png" alt="SmartLibrary.Asia Logo" className="logo-img" />
           </Link>
 
           <nav className={`nav ${isMenuOpen ? 'nav-open' : ''}`}>
