@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "products": "Mahsulotlar",
+    "solutions": "Yechimlar",
+    "resources": "Resurslar",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "title": "Kutubxonalar, arxivlar va ta'lim uchun aqlli RFID yechimlari",
+    "subtitle": "Markaziy Osiyoda ilg'or RFID avtomatlashtirish yechimlarini taqdim etuvchi Bibliotheca ning rasmiy hamkori",
+    "cta1": "Mahsulotlarni ko'rish",
+    "cta2": "Narx so'rash"
+  },
+  "products": {
+    "title": "Bizning mahsulotlarimiz",
+    "subtitle": "Zamonaviy kutubxonalar va ta'lim muassasalari uchun keng qamrovli RFID yechimlari",
+    "categories": {
+      "kiosks": "O'z-o'ziga xizmat kiosklar",
+      "gates": "Xavfsizlik darvozalari",
+      "readers": "RFID o'quvchilar",
+      "returns": "Qaytarish stantsiyalari",
+      "software": "Dasturiy yechimlar"
+    },
+    "viewDetails": "Batafsil ko'rish"
+  },
+  "solutions": {
+    "title": "Yechimlar",
+    "subtitle": "Har bir turdagi muassasa uchun maxsus RFID avtomatlashtirish",
+    "public": "Ommaviy kutubxonalar",
+    "university": "Universitetlar",
+    "school": "Maktablar",
+    "archive": "Arxivlar",
+    "museum": "Muzeylar"
+  },
+  "resources": {
+    "title": "Resurslar",
+    "subtitle": "Yuklab olish, yangiliklar va amalga oshirish galereyalari",
+    "news": "Yangiliklar va yangilanishlar",
+    "downloads": "Yuklab olish",
+    "gallery": "Galereya"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "subtitle": "Markaziy Osiyoda kutubxona avtomatlashtirish bo'yicha ishonchli hamkoringiz",
+    "mission": "Bizning missiyamiz",
+    "partnership": "Bibliotheca hamkorligi",
+    "team": "Bizning jamoa"
+  },
+  "contact": {
+    "title": "Biz bilan bog'laning",
+    "subtitle": "Maslahat va yordam uchun biz bilan bog'laning",
+    "form": {
+      "name": "Ism",
+      "email": "Email",
+      "phone": "Telefon",
+      "message": "Xabar",
+      "send": "Xabar yuborish"
+    },
+    "info": {
+      "address": "Manzil",
+      "phone": "Telefon",
+      "email": "Email"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 SmartLibrary.Asia. Barcha huquqlar himoyalangan.",
+    "partner": "Bibliotheca ning rasmiy hamkori"
+  }
+}

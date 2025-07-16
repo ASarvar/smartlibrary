@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "solutions": "Solutions",
+    "resources": "Resources",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Smart RFID Solutions for Libraries, Archives, and Education",
+    "subtitle": "Official partner of Bibliotheca providing cutting-edge RFID automation solutions across Central Asia",
+    "cta1": "Explore Products",
+    "cta2": "Request a Quote"
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Comprehensive RFID solutions for modern libraries and educational institutions",
+    "categories": {
+      "kiosks": "Self-Service Kiosks",
+      "gates": "Security Gates",
+      "readers": "RFID Readers",
+      "returns": "Return Stations",
+      "software": "Software Solutions"
+    },
+    "viewDetails": "View Details"
+  },
+  "solutions": {
+    "title": "Solutions",
+    "subtitle": "Tailored RFID automation for every type of institution",
+    "public": "Public Libraries",
+    "university": "Universities",
+    "school": "Schools",
+    "archive": "Archives",
+    "museum": "Museums"
+  },
+  "resources": {
+    "title": "Resources",
+    "subtitle": "Downloads, news, and implementation galleries",
+    "news": "News & Updates",
+    "downloads": "Downloads",
+    "gallery": "Gallery"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Your trusted partner for library automation in Central Asia",
+    "mission": "Our Mission",
+    "partnership": "Bibliotheca Partnership",
+    "team": "Our Team"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch for consultation and support",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Message",
+      "send": "Send Message"
+    },
+    "info": {
+      "address": "Address",
+      "phone": "Phone",
+      "email": "Email"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 SmartLibrary.Asia. All rights reserved.",
+    "partner": "Official Partner of Bibliotheca"
+  }
+}
